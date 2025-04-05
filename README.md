@@ -1,8 +1,23 @@
 <h1 align="center">Leo Mosca Loncarovich 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack formado na <strong>Trybe</strong> — com eletiva em <strong>Python</strong> — apaixonado por transformar ideias em soluções reais com código limpo, performático e bem estruturado.
+  Desenvolvedor Full Stack formado na <strong>Trybe</strong>, especializado em <strong>Python</strong> e atualmente cursando <strong>Engenharia de Software</strong> pela Anhanguera. Apaixonado por transformar ideias em soluções reais com código limpo, performático e bem estruturado.
 </p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Olá! Eu sou o **Leo Mosca Loncarovich**, desenvolvedor full stack formado pela [Trybe](https://betrybe.com/), com especialização em **Python** e tecnologias modernas como Django, REST APIs, Docker e TypeScript. Durante o curso, aprendi a construir aplicações completas, tanto no front-end quanto no back-end, aplicando boas práticas, lógica de programação e metodologias ágeis.
+
+Além da Trybe, sigo minha jornada como autodidata — algo que considero essencial na carreira de qualquer dev. Atualmente, estou cursando **Engenharia de Software** na Anhanguera (EAD), buscando aprofundar meus conhecimentos e evoluir constantemente com dedicação e foco.
+
+Sou uma pessoa extremamente comprometida, e carrego comigo valores que vieram muito antes da minha jornada como desenvolvedor. Desde cedo, cuido do meu tio, que tem síndrome de Down — e isso me ensinou muito sobre empatia, paciência e responsabilidade. É uma das maiores fontes de orgulho da minha vida, e moldou muito do profissional que estou me tornando.
+
+Durante minha formação na Trybe, enfrentei vários desafios: pouco tempo, muito conteúdo e projetos exigentes. Mas minha resiliência sempre falou mais alto. Quando eu gosto de um assunto, me aprofundo; e mesmo quando é difícil, não paro até entender. Acredito que o que define um bom dev não é saber tudo, mas sim ter a vontade e a constância de aprender.
+
+**Atualmente, estou em busca da minha primeira oportunidade profissional na área de tecnologia — seja como estagiário ou desenvolvedor júnior.**  
+Tenho preferência por vagas remotas, mas estou totalmente disposto a me mudar, se necessário. O que mais desejo é colocar em prática tudo o que venho aprendendo e somar com muito esforço e comprometimento.
 
 ---
 
