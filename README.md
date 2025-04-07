@@ -17,7 +17,9 @@ Sou uma pessoa extremamente comprometida, e carrego comigo valores que vieram mu
 Durante minha formação na Trybe, enfrentei vários desafios: pouco tempo, muito conteúdo e projetos exigentes. Mas minha resiliência sempre falou mais alto. Quando eu gosto de um assunto, me aprofundo; e mesmo quando é difícil, não paro até entender. Acredito que o que define um bom dev não é saber tudo, mas sim ter a vontade e a constância de aprender.
 
 **Atualmente, estou em busca da minha primeira oportunidade profissional na área de tecnologia — seja como estagiário ou desenvolvedor júnior.**  
-Tenho preferência por vagas remotas, mas estou totalmente disposto a me mudar, se necessário. O que mais desejo é colocar em prática tudo o que venho aprendendo e somar com muito esforço e comprometimento.
+Moro em Oscar Bressane - SP, tenho preferência por vagas remotas, mas estou totalmente aberto a me mudar de cidade ou estado, caso seja necessário para a vaga. O que mais desejo é colocar em prática tudo o que venho aprendendo e somar com muito esforço e comprometimento.
+
+
 
 ---
 
